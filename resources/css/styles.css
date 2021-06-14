@@ -1,0 +1,49 @@
+/* BACKGROUND & HEADING STYLING */
+html {
+    background-color: silver;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: darkred;
+    text-align: center;
+}
+
+/* TABLE STYLING */
+table {
+    table-layout: fixed;
+    margin: 0 auto;
+}
+
+table,
+td {
+    border: 1px solid #f00;
+    background-color: darkred;
+}
+
+thead {
+    background-color: #ff5858;
+    color: white;
+}
+
+th {
+    width: 120px;
+}
+
+.description {
+    width: 500px;
+}
+
+td {
+    color: white;
+}
+
+span {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
